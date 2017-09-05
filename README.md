@@ -1,10 +1,12 @@
 # weex-image-picker
+
 weex-image-picker是一个weex插件，可以通过weexpack快速集成，可以丰富weex功能
 
 支持的weexpack版本： >= 0.2.0
 支持的WeexSDK版本： >= 0.10.0
 
 # 功能
+![效果](https://github.com/weexext/weex-image-picker/blob/master/images/ios-image.png)
 
 # 快速使用
 - 通过weexpack初始化一个测试工程 weextest
