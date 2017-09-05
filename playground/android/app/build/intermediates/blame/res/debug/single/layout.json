@@ -1,0 +1,366 @@
+[
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/content_wx_main.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/src/main/res/layout/content_wx_main.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/wxt_option_item.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.taobao.android/weex_analyzer/0.1.0.5/res/layout/wxt_option_item.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/search_book_contents_list_item.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/src/main/res/layout/search_book_contents_list_item.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/wxt_log_view.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.taobao.android/weex_analyzer/0.1.0.5/res/layout/wxt_log_view.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/wxt_item_storage.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.taobao.android/weex_analyzer/0.1.0.5/res/layout/wxt_item_storage.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/search_book_contents_header.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/src/main/res/layout/search_book_contents_header.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/wxt_panel_history_perf_view.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.taobao.android/weex_analyzer/0.1.0.5/res/layout/wxt_panel_history_perf_view.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/catalog_item.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/src/main/res/layout/catalog_item.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/history_list_item.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/src/main/res/layout/history_list_item.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/help.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/src/main/res/layout/help.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/zxing_barcode_scanner.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.4.0/res/layout/zxing_barcode_scanner.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/activity_wxpage.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/src/main/res/layout/activity_wxpage.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/wxt_weex_perf_analysis_view.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.taobao.android/weex_analyzer/0.1.0.5/res/layout/wxt_weex_perf_analysis_view.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/content_dynamic.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/src/main/res/layout/content_dynamic.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/content_main.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/src/main/res/layout/content_main.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/wxt_activity_settings.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.taobao.android/weex_analyzer/0.1.0.5/res/layout/wxt_activity_settings.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/wxt_panel_cur_perf_view.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.taobao.android/weex_analyzer/0.1.0.5/res/layout/wxt_panel_cur_perf_view.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/zxing_capture.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.4.0/res/layout/zxing_capture.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/wxt_entrance_layout.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.taobao.android/weex_analyzer/0.1.0.5/res/layout/wxt_entrance_layout.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/activity_index.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/src/main/res/layout/activity_index.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/list_item.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/android/library/unspecified/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/activity_splash.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/share.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/src/main/res/layout/share.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/activity_dynamic.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/src/main/res/layout/activity_dynamic.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/wxt_perf_overlay_view.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.taobao.android/weex_analyzer/0.1.0.5/res/layout/wxt_perf_overlay_view.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/app_bar_main.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/src/main/res/layout/app_bar_main.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/search_book_contents.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/src/main/res/layout/search_book_contents.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/wxt_memory_chart.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.taobao.android/weex_analyzer/0.1.0.5/res/layout/wxt_memory_chart.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/app_picker_list_item.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/src/main/res/layout/app_picker_list_item.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/camera.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/src/main/res/layout/camera.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/bookmark_picker_list_item.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/src/main/res/layout/bookmark_picker_list_item.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/wxt_item_log.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.taobao.android/weex_analyzer/0.1.0.5/res/layout/wxt_item_log.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/wxt_log_settngs.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.taobao.android/weex_analyzer/0.1.0.5/res/layout/wxt_log_settngs.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/wxt_storage_view.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.taobao.android/weex_analyzer/0.1.0.5/res/layout/wxt_storage_view.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/encode.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/src/main/res/layout/encode.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/hello_weex.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/src/main/res/layout/hello_weex.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/layout/capture.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/src/main/res/layout/capture.xml"
+    }
+]

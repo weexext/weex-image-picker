@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/dzc/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_09df6f0df6fc1ff859316f55552f9a5904b3bd70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.2.0_e22543090453b9b80ef70d9d5b12efa85e3b87f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.2.0_7f11e7053fae6484ca2534efe61d1c024eb3c48c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dzc/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-ws/2.3.0/7896d229b6aa7884552ab9c23de54c7eb0de8203/okhttp-ws-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7896d229b6aa7884552ab9c23de54c7eb0de8203">
+        <dex dex="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-2.3.0_ec33db81201c2ca7d3fc2fbfdcd612757f18b788.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="65f0c887ee1f57cd0ea65b228e39b7f35372b798">
+        <dex dex="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-0.10.0_6ad4868bfc2507fdf785102f34826c12a9a7245b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.taobao.android/weex_analyzer/0.1.0.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="228d8713a09b702ffec31803c7319923596660a8">
+        <dex dex="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/pre-dexed/debug/com.taobao.android-weex_analyzer-0.1.0.5_55a94bd6d40b86b23fb408f4d28d0c8d9886b6b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.2.0_3d4dc543d8ce27b89f16ef6c0d3b8f7634ec0051.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="857099e23430445aeb65cf703d5adf646ff280f1">
+        <dex dex="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-0.10.0_d271fb642e2e7bc9d116911375a85cdd3d50539c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.2.0_3fc3b0af6e06c833304c988c9f2b4ef099461cd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.taobao.android.weex_inspection/urlconnection_interceptor/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="be36c61f475da25feaaaef4638ae28aec2bd7dc9">
+        <dex dex="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/pre-dexed/debug/com.taobao.android.weex_inspection-urlconnection_interceptor-1.0.0_407358a9c5cd9550d91c5f3da0216e7baf94833f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e1f104cf60bfe34147ef670229f2635789c79a4">
+        <dex dex="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/pre-dexed/debug/com.journeyapps-zxing-android-embedded-3.4.0_4855fe37dc2293a723d5e647f68ff948f01ae366.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6e1ed00013584399dbe27d45ac1fd6a9828c9fca">
+        <dex dex="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-0.10.0_b2ebd98349c8a98b021d0ef7342defac61a8cd6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.2.0_1bd9db1f33fc686877a268024a49fc2d0fd91423.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.2.0_f6a7967dc606ab487df64b7829c3da9d267032a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dzc/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.3.0/2e7bc7033dc2c8423e661224171b3133fb155b28/okhttp-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2e7bc7033dc2c8423e661224171b3133fb155b28">
+        <dex dex="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/pre-dexed/debug/okhttp-2.3.0_ec24367e9042ec42f1b0a9964c5f4f9311ae0dff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.taobao.android/weex_inspector/0.10.0.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="575d72d4a489260763ca62b2b54450fdec3bebd1">
+        <dex dex="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/pre-dexed/debug/com.taobao.android-weex_inspector-0.10.0.5_acd6730b52bad9958af374618877b33eb507b008.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/transition/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.2.0_27939390c7ea548d7adf6b1309f8382fd02f115c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/android/library/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b54d291db45862207d086e70601a087e15cf5380">
+        <dex dex="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/pre-dexed/debug/android-library-unspecified_88729346261f48bb366a1e1f8a5d5d6c583c04cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support.test.espresso/espresso-idling-resource/2.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a890ee8445927649d9ed50f625a315d8758688be">
+        <dex dex="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/pre-dexed/debug/com.android.support.test.espresso-espresso-idling-resource-2.2.2_d642c4c67788f1bc70e985f23855bd0510888562.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.2.0_e4970ffe8b632057a895aeb906666009cabb4113.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dzc/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_3c2cbe783cf3c238ba1cd66a97cb07c42fa950b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.taobao.android/weex_sdk/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5c661d2cd2b4e0f3236d37b1e2b84b2b3a0a19f5">
+        <dex dex="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/pre-dexed/debug/com.taobao.android-weex_sdk-0.10.0_131add07cff7b9d3206b2aeb625f8a242b23849a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.2.0_5d62c92df9aa87a09aef5a33d7710977d2a9ad22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.2.0_9b5ec48317483d853c8e3541fe0f71c2326ddf0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.2.0_29bb88a6a5838dbabba5f0ecbf8c2450f38a332c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dzc/.gradle/caches/modules-2/files-2.1/com.jakewharton.scalpel/scalpel/1.1.2/5ba0479abcf273a2c252dc65d47e4d5b95b2f700/scalpel-1.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5ba0479abcf273a2c252dc65d47e4d5b95b2f700">
+        <dex dex="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/pre-dexed/debug/scalpel-1.1.2_936b4889250a6feb72dffdfb28ce42e8d82831eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/org.weex.plugin/plugin-loader/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9fb0f0abf0bd3ac2611a3712f2867408d5846077">
+        <dex dex="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/pre-dexed/debug/org.weex.plugin-plugin-loader-1.0.0_62c211ffe56a7e18e04c1f8ba7aa8ccca7c4640d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.2.0_44c70961bb09ef94cea0b91f7d8526bead954c03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dzc/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/pre-dexed/debug/library-2.4.0_d76fbb1d00473fecf1628383e5d686613072c551.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dzc/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4_facf9b6825c1093754b5b5b926ab086b6e73aa6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dzc/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.3.0/1b355f73402020c5a0dcca58affc3ec3dfeabac1/okio-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1b355f73402020c5a0dcca58affc3ec3dfeabac1">
+        <dex dex="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/pre-dexed/debug/okio-1.3.0_2dd445f64c3a2e697005831b3522e1d9b5d5299b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dzc/.gradle/caches/modules-2/files-2.1/com.alibaba/fastjson/1.1.46.android/108717c93f7aec31fb86db57cb4ad1e26034c638/fastjson-1.1.46.android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="108717c93f7aec31fb86db57cb4ad1e26034c638">
+        <dex dex="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/pre-dexed/debug/fastjson-1.1.46.android_21c0ab0641ecf2716037e6c44f5722dc6c339305.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d323cf4983bdfce7136a1ce5e32710e1b36b20fe">
+        <dex dex="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-0.10.0_6d9a9f04d76746e296b18dae79d15fafdb8b81e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5e88a2a26ac71cd7f8fd8bd9f9381fa06d1a47a3">
+        <dex dex="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-0.10.0_0ad64b76f2ac3be5b89194dd50f879940d37d514.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dzc/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/pre-dexed/debug/core-3.2.1_eec89431a0cb625ab2543a02371fec214e8d54cd.jar" />
+    </item>
+
+</items>
