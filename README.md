@@ -48,7 +48,7 @@ weex-image-picker是一个weex插件，可以通过weexpack快速集成，可以
 - 手动集成
   在相应工程的build.gradle文件的dependencies中添加
   ```
-  compile '${groupId}:weeximagepicker:{$version}'
+  compile 'com.weexext:imagepicker:1.0.1'
   ``` 
   注意：您需要自行指定插件的groupId和version并将构建产物发布到相应的依赖管理仓库内去（例如maven）, 您也可以对插件的name进行自定义，默认将使用插件工程的名称作为name
 

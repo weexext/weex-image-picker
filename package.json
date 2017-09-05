@@ -1,6 +1,6 @@
 {
     "name": "weex-image-picker",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "main": "./js/build/main.js",
     "description": "weex-image-picker extend for weex",
     "license": "Apache-2.0",
@@ -15,8 +15,8 @@
     "android": {
         "//": "安装类型为maven",
         "type": "maven",
-        "groupId": "org.weex.plugin",
-        "name": "weeximagepicker",
+        "groupId": "com.weexext",
+        "name": "imagepicker",
         "version": "1.0.1"
     },
     "keywords": [
@@ -63,7 +63,8 @@
         "weex-components": "^0.2.0",
         "weex-picker": "^0.1.0",
         "weex-rax-framework": "0.0.10",
-        "weex-vue-framework": "2.1.8-weex.1"
+        "weex-vue-framework": "2.1.8-weex.1",
+        "weex-image-picker": "1.0.1"
     },
     "devDependencies": {
         "babel-core": "^6.17.0",
