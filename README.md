@@ -57,6 +57,7 @@ weex-image-picker是一个weex插件，可以通过weexpack快速集成，可以
 ---
 #详解:
 # Weex Image Picker [![npm version](https://market.dotwe.org/#91)]
+[![Download](https://api.bintray.com/packages/kkmike999/maven/demo_package/images/download.svg) ](https://bintray.com/tracy8404/weexext/imagepicker/_latestVersion)
 
 A Weex module that allows you to use native UI to select a photo/video from the device library or directly from the camera, like so:
 

@@ -1,5 +1,5 @@
 apply plugin: 'com.android.library'
-
+apply plugin: 'com.novoda.bintray-release' // must be applied after your artifact generating plugin (eg. java / com.android.library)
 android {
     compileSdkVersion 25
     buildToolsVersion "25.0.2"
@@ -13,6 +13,9 @@ android {
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
 
     }
+    lintOptions {
+        abortOnError false
+    }
     buildTypes {
         release {
             minifyEnabled false
@@ -20,6 +23,15 @@ android {
         }
     }
 }
+publish {
+    groupId = 'com.weexext'
+    artifactId = 'imagepicker'
+    userOrg = 'tracy8404'
+    repoName = 'weexext'
+    publishVersion = '1.0.1'
+    desc = "weexext imagepicker"
+}
+//./gradlew clean build bintrayUpload -PbintrayUser=BINTRAY_USERNAME -PbintrayKey=BINTRAY_KEY -PdryRun=false
 
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])

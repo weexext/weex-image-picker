@@ -12,12 +12,12 @@
         "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.taobao.android/weex_analyzer/0.1.0.5/res/drawable/wxt_radio_btn_style.xml"
     },
     {
-        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
-        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/abc_ratingbar_indicator_material.xml"
-    },
-    {
         "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/drawable/wxt_btn_bg.xml",
         "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.taobao.android/weex_analyzer/0.1.0.5/res/drawable/wxt_btn_bg.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/abc_ratingbar_indicator_material.xml"
     },
     {
         "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
@@ -44,12 +44,12 @@
         "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
-        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/notification_icon_background.xml"
-    },
-    {
         "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
         "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/res/drawable/notification_icon_background.xml"
     },
     {
         "merged": "/Users/dzc/que/ucar/weexext/weex-image-picker/playground/android/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",

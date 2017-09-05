@@ -62,16 +62,6 @@ public class MediaUtils
         return result;
     }
 
-    /**
-     * Create a resized image to fulfill the maxWidth/maxHeight, quality and rotation values
-     *
-     * @param context
-     * @param options
-     * @param imageConfig
-     * @param initialWidth
-     * @param initialHeight
-     * @return updated ImageConfig
-     */
     public static @NonNull ImageConfig getResizedImage(@NonNull final Context context,
                                                        @NonNull final JSONObject options,
                                                        @NonNull final ImageConfig imageConfig,
